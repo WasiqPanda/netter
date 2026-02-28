@@ -1,0 +1,4 @@
+$ bun --hot index.ts
+🚀 Tracking Service starting on port 3003...
+✅ Tracking Service running on port 3003
+   WebSocket endpoint: ws://localhost:3003
